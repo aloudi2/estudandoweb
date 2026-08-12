@@ -1,0 +1,35 @@
+body {
+  background-color: #8d8a8a;
+}
+
+h1 {
+  color: red; /*Cor da fonte*/
+  font-family: arial, helvetica, sans-serif; /*Tipo de fonte*/
+  font-size: 54px; /*Tamanho fonte*/
+  color: #f9fdff;
+}
+
+h2 {
+  font-size: 48px;
+  font-style: italic;
+  font-family: arial, helvetica, sans-serif; /*Tipo de fonte*/
+}
+
+h3 {
+  font-size: 48px;
+  text-transform: uppercase; /*Deixa tudo em maisucula*/
+  text-align: center; /*Alinha ao centro*/
+  color: rgb(98, 181, 187);
+  text-decoration: underline; /*Coloca uma linha abaixo do texto*/
+  background-color: rgb(252, 253, 255);
+}
+
+p {
+  text-align: justify; /*Deixa texto justificado*/
+  text-indent: 28px; /*Deixa texto separado da margem*/
+  color: white;
+}
+
+.destaque {
+  color: rgb(207, 0, 35);
+}
